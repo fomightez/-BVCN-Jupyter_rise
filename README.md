@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/BVCN-Jupyter_rise/master?urlpath=lab%2Ftree%2FUntitled.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/BVCN-Jupyter_rise/master?filepath=Untitled.ipynb)
 
 
 # BVCN-Jupyter_rise
@@ -15,4 +15,4 @@ RISE only works in the classic notebook mode. Therefore, upon launch the session
 
 ----
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/BVCN-Jupyter_rise/master?urlpath=lab%2Ftree%2FUntitled.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/BVCN-Jupyter_rise/master?filepath=Untitled.ipynb)
