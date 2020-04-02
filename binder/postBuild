@@ -19,6 +19,9 @@ conda install -c conda-forge xeus-python=0.6.12 ptvsd
 # avoid breaking jupyter-offlinenotebook
 jupyter labextension install @jupyterlab/debugger
 
+# add RISE extension
+python -m pip install RISE
+
 # repo2docker copies this repo into $HOME which means jupyter labextension
 # picks up hidden dot files and runs into problems so install from a
 # different directory
