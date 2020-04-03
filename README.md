@@ -8,6 +8,9 @@ See [here](https://github.com/fomightez/BVCN-Jupyter_base) for base version for 
 
 The version that launches from here has RISE slideshow ability as well. This was made a new repository in order to decrease clutter of toolbar for learners. **THIS VERSION IS MEANT TO BE USED BY INSTRUCTORS SO THEY CAN USE THE RISE SLIDESHOWS TO CLEARLY SHOW AND DEMONSTRATE CODE CELLS.**
 
+
+----
+
 Technical notes:
 
 RISE only works in the classic notebook mode. Therefore, upon launch the session starts in that interface so that the slideshow presentation icon is visible. The icon that siwtches from the notebook to the RISE slideshow mode looks like a bar chart. An time you are in the slideshow mode you can press the 'X' in the upper left to return to the notebook. 
