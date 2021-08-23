@@ -18,6 +18,7 @@ RISE only works in the classic notebook mode. Therefore, upon launch the session
 **My students are working in JupyterLab. How do I switch so my interface looks like theirs when illustrating something?**  
 You can switch to JupyterLab interface by editing the URL. The easiest way from the notebook view is to edit the URL so `notebooks` and any text with the name of the notebook after that is replaced with the text `lab`. Press return after that edit and the interface will change. Switching back from JupyterLab to the classic interface where RISE works is as easy as selecting above the from the main  menu: `Help` > `Launch Classic Notebook`.
 
+(Debugger disabled for now and so this paragraph below temporarily(?) doesn't apply)
 You'll notice the kernel that is attached to the start up notebook is not the vanilla Python 3 and is instead the 'xpython' one. This is the same kernel with which the default notebook that [the base](https://github.com/fomightez/BVCN-Jupyter_base) opens. The idea is that you can then more easily switch from the code you are entering in the slideshow to view the debugger, if needed, without the need for also toggling the kernel. (Let me know if there would be a better way to approach the starting kernel.)
 
 ----
